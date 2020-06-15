@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+中国科学院大学
+2019-2020秋季学期
+操作系统实验课
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+基于龙芯板卡的简易操作系统
+实现bootloader、简易内核、系统调用、虚拟内存、设备驱动和文件系统
+实现大作业
